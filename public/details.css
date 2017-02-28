@@ -1,0 +1,20 @@
+#details-header {
+  margin: auto;
+  border: 5px solid black;
+  padding: 10px;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+}
+
+h2 {
+  text-align: center;
+  text-decoration-style: wavy;
+  text-decoration-color: purple;
+}
+
+h3 {
+  text-align: center;
+}
